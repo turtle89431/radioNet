@@ -1,2 +1,2 @@
-# CaribouLite FPGA Firmware
+# Radio Net FPGA Firmware
 TBD
